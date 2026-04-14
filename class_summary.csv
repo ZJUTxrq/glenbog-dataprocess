@@ -1,0 +1,8 @@
+class_display,num_observations,num_species,class_description
+Amphibia,6,2,frogs
+Arachnida,1,1,spiders
+Aves,57,34,birds
+Insecta,43,21,insects
+Mammalia – Chiroptera,7,5,bats
+Mammalia – other,1699,15,other mammals
+Grand Total,1813,78,
