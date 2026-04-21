@@ -1,37 +1,37 @@
-class_display,order,scientificName,vernacularName,num_observations,most_recent_date
+class_display,order,scientificName_clean,vernacularName,num_observations,most_recent_date
 Amphibia,Anura,Crinia signifera,Common Eastern Froglet,5,2025-12-20
 Amphibia,Anura,Limnodynastes dumerilii,Eastern Banjo Frog,1,2008-02-12
 Aves,Passeriformes,Gymnorhina tibicen,Australian Magpie,1,2008-02-11
-Aves,Apodiformes,Aegotheles (Aegotheles) cristatus,Australian Owlet-nightjar,2,1992-03-01
+Aves,Apodiformes,Aegotheles cristatus,Australian Owlet-nightjar,2,1992-03-01
 Aves,Passeriformes,Corvus coronoides,Australian Raven,1,2014-03-11
-Aves,Passeriformes,Zoothera (Zoothera) lunulata,Bassian Thrush,1,2014-03-11
-Aves,Passeriformes,Coracina (Coracina) novaehollandiae,Black-faced Cuckoo-shrike,1,2025-12-14
-Aves,Passeriformes,Monarcha (Monarcha) melanopsis,Black-faced Monarch,1,2024-12-19
-Aves,Passeriformes,Acanthiza (Acanthiza) pusilla,Brown Thornbill,1,2025-12-16
-Aves,Passeriformes,Acanthiza (Geobasileus) reguloides,Buff-rumped Thornbill,1,2025-12-20
-Aves,Psittaciformes,Platycercus (Platycercus) elegans,Crimson Rosella,2,2025-12-23
-Aves,Passeriformes,Psophodes (Psophodes) olivaceus,Eastern Whipbird,1,2008-02-11
-Aves,Passeriformes,Eopsaltria (Eopsaltria) australis,Eastern Yellow Robin,1,2014-03-11
-Aves,Passeriformes,Petroica (Littlera) phoenicea,Flame Robin,8,2025-12-28
+Aves,Passeriformes,Zoothera lunulata,Bassian Thrush,1,2014-03-11
+Aves,Passeriformes,Coracina novaehollandiae,Black-faced Cuckoo-shrike,1,2025-12-14
+Aves,Passeriformes,Monarcha melanopsis,Black-faced Monarch,1,2024-12-19
+Aves,Passeriformes,Acanthiza pusilla,Brown Thornbill,1,2025-12-16
+Aves,Passeriformes,Acanthiza reguloides,Buff-rumped Thornbill,1,2025-12-20
+Aves,Psittaciformes,Platycercus elegans,Crimson Rosella,2,2025-12-23
+Aves,Passeriformes,Psophodes olivaceus,Eastern Whipbird,1,2008-02-11
+Aves,Passeriformes,Eopsaltria australis,Eastern Yellow Robin,1,2014-03-11
+Aves,Passeriformes,Petroica phoenicea,Flame Robin,8,2025-12-28
 Aves,Psittaciformes,Callocephalon fimbriatum,Gang-gang Cockatoo,1,2016-11-01
-Aves,Passeriformes,Strepera (Neostrepera) versicolor,Grey Currawong,1,2025-12-23
-Aves,Passeriformes,Rhipidura (Rhipidura) albiscapa,Grey Fantail,1,2014-03-11
-Aves,Passeriformes,Colluricincla (Colluricincla) harmonica,Grey Shrike-thrush,3,2025-12-23
-Aves,Anseriformes,Anas (Nettion) gracilis,Grey Teal,1,2020-10-21
-Aves,Coraciiformes,Dacelo (Dacelo) novaeguineae,Laughing Kookaburra,5,2025-12-23
-Aves,Passeriformes,Meliphaga (Meliphaga) lewinii,Lewin's Honeyeater,1,2014-03-11
-Aves,Passeriformes,Strepera (Strepera) graculina,Pied Currawong,1,2014-03-11
-Aves,Strigiformes,Ninox (Rhabdoglaux) strenua,Powerful Owl,2,1992-04-12
-Aves,Passeriformes,Climacteris (Climacterobates) erythrops,Red-browed Treecreeper,1,2025-12-23
-Aves,Passeriformes,Rhipidura (Howeavis) rufifrons,Rufous Fantail,1,2024-12-19
+Aves,Passeriformes,Strepera versicolor,Grey Currawong,1,2025-12-23
+Aves,Passeriformes,Rhipidura albiscapa,Grey Fantail,1,2014-03-11
+Aves,Passeriformes,Colluricincla harmonica,Grey Shrike-thrush,3,2025-12-23
+Aves,Anseriformes,Anas gracilis,Grey Teal,1,2020-10-21
+Aves,Coraciiformes,Dacelo novaeguineae,Laughing Kookaburra,5,2025-12-23
+Aves,Passeriformes,Meliphaga lewinii,Lewin's Honeyeater,1,2014-03-11
+Aves,Passeriformes,Strepera graculina,Pied Currawong,1,2014-03-11
+Aves,Strigiformes,Ninox strenua,Powerful Owl,2,1992-04-12
+Aves,Passeriformes,Climacteris erythrops,Red-browed Treecreeper,1,2025-12-23
+Aves,Passeriformes,Rhipidura rufifrons,Rufous Fantail,1,2024-12-19
 Aves,Passeriformes,Ptilonorhynchus violaceus,Satin Bowerbird,1,2025-12-14
 Aves,Strigiformes,Tyto tenebricosa,Sooty Owl,1,2008-02-19
-Aves,Strigiformes,Ninox (Ninox) novaeseelandiae,Southern Boobook,4,2024-12-19
-Aves,Passeriformes,Acanthiza (Subacanthiza) lineata,Striated Thornbill,2,2025-12-14
-Aves,Psittaciformes,Cacatua (Cacatua) galerita,Sulphur-crested Cockatoo,1,2014-03-11
-Aves,Passeriformes,Malurus (Malurus) cyaneus,Superb Fairy-wren,2,2025-12-20
-Aves,Passeriformes,Menura (Menura) novaehollandiae,Superb Lyrebird,1,2024-12-19
-Aves,Passeriformes,Sericornis (Sericornis) frontalis,White-browed Scrubwren,2,2025-12-20
+Aves,Strigiformes,Ninox novaeseelandiae,Southern Boobook,4,2024-12-19
+Aves,Passeriformes,Acanthiza lineata,Striated Thornbill,2,2025-12-14
+Aves,Psittaciformes,Cacatua galerita,Sulphur-crested Cockatoo,1,2014-03-11
+Aves,Passeriformes,Malurus cyaneus,Superb Fairy-wren,2,2025-12-20
+Aves,Passeriformes,Menura novaehollandiae,Superb Lyrebird,1,2024-12-19
+Aves,Passeriformes,Sericornis frontalis,White-browed Scrubwren,2,2025-12-20
 Aves,Passeriformes,Nesoptilotis leucotis,White-eared Honeyeater,1,2014-03-11
 Aves,Passeriformes,Cormobates leucophaea,White-throated Treecreeper,2,2025-12-23
 Aves,Passeriformes,Caligavis chrysops,Yellow-faced Honeyeater,1,2014-03-11
@@ -56,7 +56,7 @@ Mammalia – other,Carnivora,Felis catus,Cat,10,1994-08-30
 Mammalia – other,Diprotodontia,Trichosurus vulpecula,Common Brushtail Possum,91,2008-02-18
 Mammalia – other,Diprotodontia,Pseudocheirus peregrinus,Common Ringtail Possum,2,2003-09-17
 Mammalia – other,Diprotodontia,Macropus giganteus,Eastern Grey Kangaroo,43,2008-02-13
-Mammalia – other,Artiodactyla,Bos (Bos) taurus,European Cattle,25,1994-09-05
+Mammalia – other,Artiodactyla,Bos taurus,European Cattle,25,1994-09-05
 Mammalia – other,Carnivora,Vulpes vulpes,Fox,11,2014-03-11
 Mammalia – other,Artiodactyla,Sus scrofa,Pig,22,1994-09-05
 Mammalia – other,Lagomorpha,Oryctolagus cuniculus,Rabbit,25,1994-09-05
