@@ -1,38 +1,49 @@
 class_display,order,scientificName_clean,vernacularName,num_observations,most_recent_date
+Amphibia,Anura,Litoria citropa,Blue Mountains Tree Frog,1,2025-11-27
 Amphibia,Anura,Crinia signifera,Common Eastern Froglet,5,2025-12-20
 Amphibia,Anura,Limnodynastes dumerilii,Eastern Banjo Frog,1,2008-02-12
-Aves,Passeriformes,Gymnorhina tibicen,Australian Magpie,1,2008-02-11
-Aves,Apodiformes,Aegotheles cristatus,Australian Owlet-nightjar,2,1992-03-01
+Amphibia,Anura,Litoria nudidigitus,Leaf Green River Tree Frog,1,2025-11-27
+Aves,Passeriformes,Gymnorhina tibicen,Australian Magpie,2,2025-11-10
+Aves,Apodiformes,Aegotheles cristatus,Australian Owlet-nightjar,4,2025-11-18
 Aves,Passeriformes,Corvus coronoides,Australian Raven,1,2014-03-11
 Aves,Passeriformes,Zoothera lunulata,Bassian Thrush,1,2014-03-11
 Aves,Passeriformes,Coracina novaehollandiae,Black-faced Cuckoo-shrike,1,2025-12-14
 Aves,Passeriformes,Monarcha melanopsis,Black-faced Monarch,1,2024-12-19
 Aves,Passeriformes,Acanthiza pusilla,Brown Thornbill,1,2025-12-16
+Aves,Passeriformes,Melithreptus brevirostris,Brown-headed Honeyeater,1,2025-11-10
 Aves,Passeriformes,Acanthiza reguloides,Buff-rumped Thornbill,1,2025-12-20
-Aves,Psittaciformes,Platycercus elegans,Crimson Rosella,2,2025-12-23
+Aves,Passeriformes,Edolisoma tenuirostre,Cicadabird,1,2025-11-10
+Aves,Psittaciformes,Platycercus elegans,Crimson Rosella,3,2025-12-23
+Aves,Strigiformes,Tyto javanica,Eastern Barn Owl,1,2025-11-11
 Aves,Passeriformes,Psophodes olivaceus,Eastern Whipbird,1,2008-02-11
 Aves,Passeriformes,Eopsaltria australis,Eastern Yellow Robin,1,2014-03-11
-Aves,Passeriformes,Petroica phoenicea,Flame Robin,8,2025-12-28
-Aves,Psittaciformes,Callocephalon fimbriatum,Gang-gang Cockatoo,1,2016-11-01
+Aves,Cuculiformes,Cacomantis flabelliformis,Fan-tailed Cuckoo,2,2025-11-10
+Aves,Passeriformes,Petroica phoenicea,Flame Robin,14,2025-12-28
+Aves,Psittaciformes,Callocephalon fimbriatum,Gang-gang Cockatoo,3,2025-11-10
 Aves,Passeriformes,Strepera versicolor,Grey Currawong,1,2025-12-23
-Aves,Passeriformes,Rhipidura albiscapa,Grey Fantail,1,2014-03-11
+Aves,Passeriformes,Rhipidura albiscapa,Grey Fantail,2,2025-11-10
 Aves,Passeriformes,Colluricincla harmonica,Grey Shrike-thrush,3,2025-12-23
 Aves,Anseriformes,Anas gracilis,Grey Teal,1,2020-10-21
 Aves,Coraciiformes,Dacelo novaeguineae,Laughing Kookaburra,5,2025-12-23
 Aves,Passeriformes,Meliphaga lewinii,Lewin's Honeyeater,1,2014-03-11
 Aves,Passeriformes,Strepera graculina,Pied Currawong,1,2014-03-11
 Aves,Strigiformes,Ninox strenua,Powerful Owl,2,1992-04-12
-Aves,Passeriformes,Climacteris erythrops,Red-browed Treecreeper,1,2025-12-23
+Aves,Passeriformes,Anthochaera carunculata,Red Wattlebird,1,2025-11-10
+Aves,Passeriformes,Climacteris erythrops,Red-browed Treecreeper,2,2025-12-23
 Aves,Passeriformes,Rhipidura rufifrons,Rufous Fantail,1,2024-12-19
+Aves,Passeriformes,Pachycephala rufiventris,Rufous Whistler,1,2025-11-10
+Aves,Coraciiformes,Todiramphus sanctus,Sacred Kingfisher,1,2025-11-10
 Aves,Passeriformes,Ptilonorhynchus violaceus,Satin Bowerbird,1,2025-12-14
+Aves,Passeriformes,Petroica boodang,Scarlet Robin,1,2025-11-10
 Aves,Strigiformes,Tyto tenebricosa,Sooty Owl,1,2008-02-19
-Aves,Strigiformes,Ninox novaeseelandiae,Southern Boobook,4,2024-12-19
-Aves,Passeriformes,Acanthiza lineata,Striated Thornbill,2,2025-12-14
+Aves,Strigiformes,Ninox novaeseelandiae,Southern Boobook,8,2025-11-27
+Aves,Passeriformes,Pardalotus punctatus,Spotted Pardalote,1,2025-11-10
+Aves,Passeriformes,Acanthiza lineata,Striated Thornbill,3,2025-12-14
 Aves,Psittaciformes,Cacatua galerita,Sulphur-crested Cockatoo,1,2014-03-11
 Aves,Passeriformes,Malurus cyaneus,Superb Fairy-wren,2,2025-12-20
 Aves,Passeriformes,Menura novaehollandiae,Superb Lyrebird,1,2024-12-19
-Aves,Passeriformes,Sericornis frontalis,White-browed Scrubwren,2,2025-12-20
-Aves,Passeriformes,Nesoptilotis leucotis,White-eared Honeyeater,1,2014-03-11
+Aves,Passeriformes,Sericornis frontalis,White-browed Scrubwren,3,2025-12-20
+Aves,Passeriformes,Nesoptilotis leucotis,White-eared Honeyeater,3,2025-11-10
 Aves,Passeriformes,Cormobates leucophaea,White-throated Treecreeper,2,2025-12-23
 Aves,Passeriformes,Caligavis chrysops,Yellow-faced Honeyeater,1,2014-03-11
 Insecta,Lepidoptera,Vanessa kershawi,Australian Painted Lady,1,2025-12-23
@@ -50,18 +61,20 @@ Mammalia – Chiroptera,Chiroptera,Scoteanax rueppellii,Greater Broad-nosed Bat,
 Mammalia – Chiroptera,Chiroptera,Vespadelus darlingtoni,Large Forest Bat,1,2008-02-13
 Mammalia – Chiroptera,Chiroptera,Nyctophilus geoffroyi,Lesser Long-eared Bat,2,2008-02-13
 Mammalia – Chiroptera,Chiroptera,Vespadelus vulturnus,Little Forest Bat,2,2008-02-13
-Mammalia – other,Diprotodontia,Vombatus ursinus,Bare-nosed Wombat,484,2017-09-26
+Mammalia – other,Diprotodontia,Vombatus ursinus,Bare-nosed Wombat,485,2025-12-15
 Mammalia – other,Rodentia,Rattus fuscipes,Bush Rat,3,2014-03-11
 Mammalia – other,Carnivora,Felis catus,Cat,10,1994-08-30
-Mammalia – other,Diprotodontia,Trichosurus vulpecula,Common Brushtail Possum,91,2008-02-18
-Mammalia – other,Diprotodontia,Pseudocheirus peregrinus,Common Ringtail Possum,2,2003-09-17
+Mammalia – other,Diprotodontia,Trichosurus vulpecula,Common Brushtail Possum,95,2025-12-01
+Mammalia – other,Diprotodontia,Pseudocheirus peregrinus,Common Ringtail Possum,37,2025-12-01
 Mammalia – other,Diprotodontia,Macropus giganteus,Eastern Grey Kangaroo,43,2008-02-13
 Mammalia – other,Artiodactyla,Bos taurus,European Cattle,25,1994-09-05
 Mammalia – other,Carnivora,Vulpes vulpes,Fox,11,2014-03-11
+Mammalia – other,Diprotodontia,Trichosurus cunninghami,Mountain Brushtail Possum,7,2025-12-01
 Mammalia – other,Artiodactyla,Sus scrofa,Pig,22,1994-09-05
 Mammalia – other,Lagomorpha,Oryctolagus cuniculus,Rabbit,25,1994-09-05
 Mammalia – other,Diprotodontia,Notamacropus rufogriseus,Red-necked Wallaby,10,2014-03-11
-Mammalia – other,Diprotodontia,Petauroides volans,Southern Greater Glider,535,2026-01-08
+Mammalia – other,Diprotodontia,Petauroides volans,Southern Greater Glider,591,2026-01-08
 Mammalia – other,Diprotodontia,Petaurus breviceps,Sugar Glider,3,1994-06-06
 Mammalia – other,Diprotodontia,Wallabia bicolor,Swamp Wallaby,426,2017-07-09
 Mammalia – other,Diprotodontia,Petaurus australis,Yellow-bellied Glider,9,2025-12-27
+Reptilia,Squamata,Tiliqua nigrolutea,Southern Blue-tongue,1,2025-11-10
