@@ -3,7 +3,7 @@ Amphibia,8,4,frogs
 Arachnida,1,1,spiders
 Aves,89,43,birds
 Insecta,43,21,insects
-Mammalia – Chiroptera,7,5,bats
-Mammalia – other,1802,16,other mammals
+Mammalia_Chiroptera,7,5,bats
+Mammalia_other,1709,11,other mammals
 Reptilia,1,1,lizards / reptiles
-Grand Total,1951,91,
+Grand Total,1858,86,

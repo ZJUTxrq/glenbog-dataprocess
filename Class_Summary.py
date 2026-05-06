@@ -1,4 +1,4 @@
-"""Slide 6 — class breakdown (Mammalia split by order) → class_summary.csv"""
+﻿"""Slide 6 鈥?class breakdown (Mammalia split by order) 鈫?class_summary.csv"""
 
 import re
 from pathlib import Path
@@ -6,6 +6,7 @@ import pandas as pd
 
 _DIR = Path(__file__).parent
 INPUT_FILE = _DIR / "Glenbog.csv"
+EXOTIC_MAMMAL_ORDERS = {"Artiodactyla", "Lagomorpha", "Carnivora"}
 
 CLASS_DESCRIPTIONS = {
     "Actinopterygii":         "fish",
@@ -16,9 +17,9 @@ CLASS_DESCRIPTIONS = {
     "Insecta":                "insects",
     "Lecanoromycetes":        "fungi",
     "Reptilia":               "lizards / reptiles",
-    "Mammalia – Chiroptera":  "bats",
-    "Mammalia – Monotremata": "echidnas",
-    "Mammalia – other":       "other mammals",
+    "Mammalia_Chiroptera":  "bats",
+    "Mammalia_Monotremata": "echidnas",
+    "Mammalia_other":       "other mammals",
 }
 
 KEEP = [
@@ -38,14 +39,17 @@ def class_display(row):
     if row["class"] == "Mammalia":
         o = str(row.get("order", "")).strip()
         if o == "Chiroptera":
-            return "Mammalia – Chiroptera"
+            return "Mammalia_Chiroptera"
         elif o == "Monotremata":
-            return "Mammalia – Monotremata"
+            return "Mammalia_Monotremata"
+        elif o in EXOTIC_MAMMAL_ORDERS:
+            return None
         else:
-            return "Mammalia – other"
+            return "Mammalia_other"
     return row["class"]
 
 df["class_display"] = df.apply(class_display, axis=1)
+df = df[df["class_display"].notna()].copy()
 
 class_summary = (
     df.groupby("class_display")

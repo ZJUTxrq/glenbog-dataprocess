@@ -56,25 +56,20 @@ Insecta,Odonata,Synthemis eustalacta,Swamp Tigertail,1,2025-12-23
 Insecta,Lepidoptera,Pasma tasmanica,Tasmanica Skipper,2,2025-12-16
 Insecta,Odonata,Hemicordulia tau,Tau Emerald,2,2025-12-23
 Insecta,Lepidoptera,Euloxia meandraria,Two-lined Emerald,1,2026-01-04
-Mammalia – Chiroptera,Chiroptera,Chalinolobus morio,Chocolate Wattled Bat,1,2008-02-13
-Mammalia – Chiroptera,Chiroptera,Scoteanax rueppellii,Greater Broad-nosed Bat,1,2008-02-13
-Mammalia – Chiroptera,Chiroptera,Vespadelus darlingtoni,Large Forest Bat,1,2008-02-13
-Mammalia – Chiroptera,Chiroptera,Nyctophilus geoffroyi,Lesser Long-eared Bat,2,2008-02-13
-Mammalia – Chiroptera,Chiroptera,Vespadelus vulturnus,Little Forest Bat,2,2008-02-13
-Mammalia – other,Diprotodontia,Vombatus ursinus,Bare-nosed Wombat,485,2025-12-15
-Mammalia – other,Rodentia,Rattus fuscipes,Bush Rat,3,2014-03-11
-Mammalia – other,Carnivora,Felis catus,Cat,10,1994-08-30
-Mammalia – other,Diprotodontia,Trichosurus vulpecula,Common Brushtail Possum,95,2025-12-01
-Mammalia – other,Diprotodontia,Pseudocheirus peregrinus,Common Ringtail Possum,37,2025-12-01
-Mammalia – other,Diprotodontia,Macropus giganteus,Eastern Grey Kangaroo,43,2008-02-13
-Mammalia – other,Artiodactyla,Bos taurus,European Cattle,25,1994-09-05
-Mammalia – other,Carnivora,Vulpes vulpes,Fox,11,2014-03-11
-Mammalia – other,Diprotodontia,Trichosurus cunninghami,Mountain Brushtail Possum,7,2025-12-01
-Mammalia – other,Artiodactyla,Sus scrofa,Pig,22,1994-09-05
-Mammalia – other,Lagomorpha,Oryctolagus cuniculus,Rabbit,25,1994-09-05
-Mammalia – other,Diprotodontia,Notamacropus rufogriseus,Red-necked Wallaby,10,2014-03-11
-Mammalia – other,Diprotodontia,Petauroides volans,Southern Greater Glider,591,2026-01-08
-Mammalia – other,Diprotodontia,Petaurus breviceps,Sugar Glider,3,1994-06-06
-Mammalia – other,Diprotodontia,Wallabia bicolor,Swamp Wallaby,426,2017-07-09
-Mammalia – other,Diprotodontia,Petaurus australis,Yellow-bellied Glider,9,2025-12-27
+Mammalia_Chiroptera,Chiroptera,Chalinolobus morio,Chocolate Wattled Bat,1,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Scoteanax rueppellii,Greater Broad-nosed Bat,1,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Vespadelus darlingtoni,Large Forest Bat,1,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Nyctophilus geoffroyi,Lesser Long-eared Bat,2,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Vespadelus vulturnus,Little Forest Bat,2,2008-02-13
+Mammalia_other,Diprotodontia,Vombatus ursinus,Bare-nosed Wombat,485,2025-12-15
+Mammalia_other,Rodentia,Rattus fuscipes,Bush Rat,3,2014-03-11
+Mammalia_other,Diprotodontia,Trichosurus vulpecula,Common Brushtail Possum,95,2025-12-01
+Mammalia_other,Diprotodontia,Pseudocheirus peregrinus,Common Ringtail Possum,37,2025-12-01
+Mammalia_other,Diprotodontia,Macropus giganteus,Eastern Grey Kangaroo,43,2008-02-13
+Mammalia_other,Diprotodontia,Trichosurus cunninghami,Mountain Brushtail Possum,7,2025-12-01
+Mammalia_other,Diprotodontia,Notamacropus rufogriseus,Red-necked Wallaby,10,2014-03-11
+Mammalia_other,Diprotodontia,Petauroides volans,Southern Greater Glider,591,2026-01-08
+Mammalia_other,Diprotodontia,Petaurus breviceps,Sugar Glider,3,1994-06-06
+Mammalia_other,Diprotodontia,Wallabia bicolor,Swamp Wallaby,426,2017-07-09
+Mammalia_other,Diprotodontia,Petaurus australis,Yellow-bellied Glider,9,2025-12-27
 Reptilia,Squamata,Tiliqua nigrolutea,Southern Blue-tongue,1,2025-11-10

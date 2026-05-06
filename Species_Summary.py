@@ -1,9 +1,10 @@
-import re
+﻿import re
 import pandas as pd
 from pathlib import Path
 
 DIR = Path(__file__).parent
 INPUT_FILE = DIR / "Glenbog.csv"
+EXOTIC_MAMMAL_ORDERS = {"Artiodactyla", "Lagomorpha", "Carnivora"}
 
 KEEP = [
     "scientificName", "vernacularName",
@@ -39,14 +40,17 @@ def class_display(row):
     if row["class"] == "Mammalia":
         o = str(row.get("order", "")).strip()
         if o == "Chiroptera":
-            return "Mammalia – Chiroptera"
+            return "Mammalia_Chiroptera"
         elif o == "Monotremata":
-            return "Mammalia – Monotremata"
+            return "Mammalia_Monotremata"
+        elif o in EXOTIC_MAMMAL_ORDERS:
+            return None
         else:
-            return "Mammalia – other"
+            return "Mammalia_other"
     return row["class"]
 
 df["class_display"] = df.apply(class_display, axis=1)
+df = df[df["class_display"].notna()].copy()
 
 species_summary = (
     df.groupby(["class_display", "order", "scientificName_clean", "vernacularName"])
