@@ -4,7 +4,13 @@ from pathlib import Path
 
 DIR = Path(__file__).parent
 INPUT_FILE = DIR / "Glenbog.csv"
-EXOTIC_MAMMAL_ORDERS = {"Artiodactyla", "Lagomorpha", "Carnivora"}
+INTRODUCED_SPECIES = {
+    "Bos taurus",
+    "Sus scrofa",
+    "Oryctolagus cuniculus",
+    "Felis catus",
+    "Vulpes vulpes",
+}
 
 KEEP = [
     "scientificName", "vernacularName",
@@ -43,17 +49,17 @@ def class_display(row):
             return "Mammalia_Chiroptera"
         elif o == "Monotremata":
             return "Mammalia_Monotremata"
-        elif o in EXOTIC_MAMMAL_ORDERS:
-            return None
         else:
             return "Mammalia_other"
     return row["class"]
 
 df["class_display"] = df.apply(class_display, axis=1)
-df = df[df["class_display"].notna()].copy()
+df["native_status"] = df["scientificName_clean"].apply(
+    lambda name: "Introduced" if name in INTRODUCED_SPECIES else "Native"
+)
 
 species_summary = (
-    df.groupby(["class_display", "order", "scientificName_clean", "vernacularName"])
+    df.groupby(["class_display", "order", "scientificName_clean", "vernacularName", "native_status"])
     .agg(
         num_observations=("scientificName", "count"),
         most_recent_date=("eventDate",      "max"),

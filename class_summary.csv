@@ -1,9 +1,9 @@
 class_display,num_observations,num_species,class_description
 Amphibia,8,4,frogs
 Arachnida,1,1,spiders
-Aves,89,43,birds
+Aves,92,43,birds
 Insecta,43,21,insects
 Mammalia_Chiroptera,7,5,bats
-Mammalia_other,1709,11,other mammals
+Mammalia_other,1711,11,other mammals
 Reptilia,1,1,lizards / reptiles
-Grand Total,1858,86,
+Grand Total,1863,86,

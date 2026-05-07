@@ -1,7 +1,7 @@
 class,order,scientificName,vernacularName,number_of_observations,most_recent_observation,aus_status,nsw_status,sensitive_generalised_gps,habitat_flag,at_risk_status,decimalLatitude,decimalLongitude
-Aves,Psittaciformes,Callocephalon fimbriatum,Gang-gang Cockatoo,3,2025-11-10,Endangered,Endangered,No,,Aus: Endangered; NSW: Endangered,-36.556666666666665,149.40333333333334
-Aves,Strigiformes,Ninox strenua,Powerful Owl,2,1992-04-12,Not listed,Vulnerable,No,,NSW: Vulnerable,-36.56,149.44
-Aves,Strigiformes,Tyto tenebricosa,Sooty Owl,1,2008-02-19,Not listed,Vulnerable,No,,NSW: Vulnerable,-36.56,149.42
+Aves,Psittaciformes,Callocephalon fimbriatum,Gang-gang Cockatoo,3,2025-11-10,Endangered,Endangered,Yes,,Aus: Endangered; NSW: Endangered; Sensitive (generalised GPS),-36.556666666666665,149.40333333333334
+Aves,Strigiformes,Ninox strenua,Powerful Owl,3,1992-04-12,Not listed,Vulnerable,Yes,,NSW: Vulnerable; Sensitive (generalised GPS),-36.56,149.44
+Aves,Strigiformes,Tyto tenebricosa,Sooty Owl,1,2008-02-19,Not listed,Vulnerable,Yes,,NSW: Vulnerable; Sensitive (generalised GPS),-36.56,149.42
 Mammalia,Chiroptera,Scoteanax rueppellii,Greater Broad-nosed Bat,1,2008-02-13,Not listed,Vulnerable,No,,NSW: Vulnerable,-36.558435,149.429256
-Mammalia,Diprotodontia,Petauroides volans,Southern Greater Glider,591,2026-01-08,Endangered,Endangered,No,,Aus: Endangered; NSW: Endangered,-36.553874906937395,149.40781406260575
+Mammalia,Diprotodontia,Petauroides volans,Southern Greater Glider,593,2026-01-08,Endangered,Endangered,No,,Aus: Endangered; NSW: Endangered,-36.5538695767285,149.40782846205732
 Mammalia,Diprotodontia,Petaurus australis,Yellow-bellied Glider,9,2025-12-27,Vulnerable,Vulnerable,No,,Aus: Vulnerable; NSW: Vulnerable,-36.55951544444444,149.4339941111111

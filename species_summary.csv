@@ -1,75 +1,80 @@
-class_display,order,scientificName_clean,vernacularName,num_observations,most_recent_date
-Amphibia,Anura,Litoria citropa,Blue Mountains Tree Frog,1,2025-11-27
-Amphibia,Anura,Crinia signifera,Common Eastern Froglet,5,2025-12-20
-Amphibia,Anura,Limnodynastes dumerilii,Eastern Banjo Frog,1,2008-02-12
-Amphibia,Anura,Litoria nudidigitus,Leaf Green River Tree Frog,1,2025-11-27
-Aves,Passeriformes,Gymnorhina tibicen,Australian Magpie,2,2025-11-10
-Aves,Apodiformes,Aegotheles cristatus,Australian Owlet-nightjar,4,2025-11-18
-Aves,Passeriformes,Corvus coronoides,Australian Raven,1,2014-03-11
-Aves,Passeriformes,Zoothera lunulata,Bassian Thrush,1,2014-03-11
-Aves,Passeriformes,Coracina novaehollandiae,Black-faced Cuckoo-shrike,1,2025-12-14
-Aves,Passeriformes,Monarcha melanopsis,Black-faced Monarch,1,2024-12-19
-Aves,Passeriformes,Acanthiza pusilla,Brown Thornbill,1,2025-12-16
-Aves,Passeriformes,Melithreptus brevirostris,Brown-headed Honeyeater,1,2025-11-10
-Aves,Passeriformes,Acanthiza reguloides,Buff-rumped Thornbill,1,2025-12-20
-Aves,Passeriformes,Edolisoma tenuirostre,Cicadabird,1,2025-11-10
-Aves,Psittaciformes,Platycercus elegans,Crimson Rosella,3,2025-12-23
-Aves,Strigiformes,Tyto javanica,Eastern Barn Owl,1,2025-11-11
-Aves,Passeriformes,Psophodes olivaceus,Eastern Whipbird,1,2008-02-11
-Aves,Passeriformes,Eopsaltria australis,Eastern Yellow Robin,1,2014-03-11
-Aves,Cuculiformes,Cacomantis flabelliformis,Fan-tailed Cuckoo,2,2025-11-10
-Aves,Passeriformes,Petroica phoenicea,Flame Robin,14,2025-12-28
-Aves,Psittaciformes,Callocephalon fimbriatum,Gang-gang Cockatoo,3,2025-11-10
-Aves,Passeriformes,Strepera versicolor,Grey Currawong,1,2025-12-23
-Aves,Passeriformes,Rhipidura albiscapa,Grey Fantail,2,2025-11-10
-Aves,Passeriformes,Colluricincla harmonica,Grey Shrike-thrush,3,2025-12-23
-Aves,Anseriformes,Anas gracilis,Grey Teal,1,2020-10-21
-Aves,Coraciiformes,Dacelo novaeguineae,Laughing Kookaburra,5,2025-12-23
-Aves,Passeriformes,Meliphaga lewinii,Lewin's Honeyeater,1,2014-03-11
-Aves,Passeriformes,Strepera graculina,Pied Currawong,1,2014-03-11
-Aves,Strigiformes,Ninox strenua,Powerful Owl,2,1992-04-12
-Aves,Passeriformes,Anthochaera carunculata,Red Wattlebird,1,2025-11-10
-Aves,Passeriformes,Climacteris erythrops,Red-browed Treecreeper,2,2025-12-23
-Aves,Passeriformes,Rhipidura rufifrons,Rufous Fantail,1,2024-12-19
-Aves,Passeriformes,Pachycephala rufiventris,Rufous Whistler,1,2025-11-10
-Aves,Coraciiformes,Todiramphus sanctus,Sacred Kingfisher,1,2025-11-10
-Aves,Passeriformes,Ptilonorhynchus violaceus,Satin Bowerbird,1,2025-12-14
-Aves,Passeriformes,Petroica boodang,Scarlet Robin,1,2025-11-10
-Aves,Strigiformes,Tyto tenebricosa,Sooty Owl,1,2008-02-19
-Aves,Strigiformes,Ninox novaeseelandiae,Southern Boobook,8,2025-11-27
-Aves,Passeriformes,Pardalotus punctatus,Spotted Pardalote,1,2025-11-10
-Aves,Passeriformes,Acanthiza lineata,Striated Thornbill,3,2025-12-14
-Aves,Psittaciformes,Cacatua galerita,Sulphur-crested Cockatoo,1,2014-03-11
-Aves,Passeriformes,Malurus cyaneus,Superb Fairy-wren,2,2025-12-20
-Aves,Passeriformes,Menura novaehollandiae,Superb Lyrebird,1,2024-12-19
-Aves,Passeriformes,Sericornis frontalis,White-browed Scrubwren,3,2025-12-20
-Aves,Passeriformes,Nesoptilotis leucotis,White-eared Honeyeater,3,2025-11-10
-Aves,Passeriformes,Cormobates leucophaea,White-throated Treecreeper,2,2025-12-23
-Aves,Passeriformes,Caligavis chrysops,Yellow-faced Honeyeater,1,2014-03-11
-Insecta,Lepidoptera,Vanessa kershawi,Australian Painted Lady,1,2025-12-23
-Insecta,Lepidoptera,Scieropepla serina,Concealer Moth,10,1970-01-19
-Insecta,Lepidoptera,Telocharacta hemicroca,Concealer Moth,1,1969-11-19
-Insecta,Lepidoptera,Melitulias leucographa,Geometer Moth,1,1969-11-19
-Insecta,Lepidoptera,Oreixenica orichora,Orichora Brown,2,2025-12-23
-Insecta,Odonata,Eusynthemis guttata,Southern Tigertail,2,2025-12-23
-Insecta,Odonata,Synthemis eustalacta,Swamp Tigertail,1,2025-12-23
-Insecta,Lepidoptera,Pasma tasmanica,Tasmanica Skipper,2,2025-12-16
-Insecta,Odonata,Hemicordulia tau,Tau Emerald,2,2025-12-23
-Insecta,Lepidoptera,Euloxia meandraria,Two-lined Emerald,1,2026-01-04
-Mammalia_Chiroptera,Chiroptera,Chalinolobus morio,Chocolate Wattled Bat,1,2008-02-13
-Mammalia_Chiroptera,Chiroptera,Scoteanax rueppellii,Greater Broad-nosed Bat,1,2008-02-13
-Mammalia_Chiroptera,Chiroptera,Vespadelus darlingtoni,Large Forest Bat,1,2008-02-13
-Mammalia_Chiroptera,Chiroptera,Nyctophilus geoffroyi,Lesser Long-eared Bat,2,2008-02-13
-Mammalia_Chiroptera,Chiroptera,Vespadelus vulturnus,Little Forest Bat,2,2008-02-13
-Mammalia_other,Diprotodontia,Vombatus ursinus,Bare-nosed Wombat,485,2025-12-15
-Mammalia_other,Rodentia,Rattus fuscipes,Bush Rat,3,2014-03-11
-Mammalia_other,Diprotodontia,Trichosurus vulpecula,Common Brushtail Possum,95,2025-12-01
-Mammalia_other,Diprotodontia,Pseudocheirus peregrinus,Common Ringtail Possum,37,2025-12-01
-Mammalia_other,Diprotodontia,Macropus giganteus,Eastern Grey Kangaroo,43,2008-02-13
-Mammalia_other,Diprotodontia,Trichosurus cunninghami,Mountain Brushtail Possum,7,2025-12-01
-Mammalia_other,Diprotodontia,Notamacropus rufogriseus,Red-necked Wallaby,10,2014-03-11
-Mammalia_other,Diprotodontia,Petauroides volans,Southern Greater Glider,591,2026-01-08
-Mammalia_other,Diprotodontia,Petaurus breviceps,Sugar Glider,3,1994-06-06
-Mammalia_other,Diprotodontia,Wallabia bicolor,Swamp Wallaby,426,2017-07-09
-Mammalia_other,Diprotodontia,Petaurus australis,Yellow-bellied Glider,9,2025-12-27
-Reptilia,Squamata,Tiliqua nigrolutea,Southern Blue-tongue,1,2025-11-10
+class_display,order,scientificName_clean,vernacularName,native_status,num_observations,most_recent_date
+Amphibia,Anura,Litoria citropa,Blue Mountains Tree Frog,Native,1,2025-11-27
+Amphibia,Anura,Crinia signifera,Common Eastern Froglet,Native,5,2025-12-20
+Amphibia,Anura,Limnodynastes dumerilii,Eastern Banjo Frog,Native,1,2008-02-12
+Amphibia,Anura,Litoria nudidigitus,Leaf Green River Tree Frog,Native,1,2025-11-27
+Aves,Passeriformes,Gymnorhina tibicen,Australian Magpie,Native,2,2025-11-10
+Aves,Apodiformes,Aegotheles cristatus,Australian Owlet-nightjar,Native,6,2025-11-18
+Aves,Passeriformes,Corvus coronoides,Australian Raven,Native,1,2014-03-11
+Aves,Passeriformes,Zoothera lunulata,Bassian Thrush,Native,1,2014-03-11
+Aves,Passeriformes,Coracina novaehollandiae,Black-faced Cuckoo-shrike,Native,1,2025-12-14
+Aves,Passeriformes,Monarcha melanopsis,Black-faced Monarch,Native,1,2024-12-19
+Aves,Passeriformes,Acanthiza pusilla,Brown Thornbill,Native,1,2025-12-16
+Aves,Passeriformes,Melithreptus brevirostris,Brown-headed Honeyeater,Native,1,2025-11-10
+Aves,Passeriformes,Acanthiza reguloides,Buff-rumped Thornbill,Native,1,2025-12-20
+Aves,Passeriformes,Edolisoma tenuirostre,Cicadabird,Native,1,2025-11-10
+Aves,Psittaciformes,Platycercus elegans,Crimson Rosella,Native,3,2025-12-23
+Aves,Strigiformes,Tyto javanica,Eastern Barn Owl,Native,1,2025-11-11
+Aves,Passeriformes,Psophodes olivaceus,Eastern Whipbird,Native,1,2008-02-11
+Aves,Passeriformes,Eopsaltria australis,Eastern Yellow Robin,Native,1,2014-03-11
+Aves,Cuculiformes,Cacomantis flabelliformis,Fan-tailed Cuckoo,Native,2,2025-11-10
+Aves,Passeriformes,Petroica phoenicea,Flame Robin,Native,14,2025-12-28
+Aves,Psittaciformes,Callocephalon fimbriatum,Gang-gang Cockatoo,Native,3,2025-11-10
+Aves,Passeriformes,Strepera versicolor,Grey Currawong,Native,1,2025-12-23
+Aves,Passeriformes,Rhipidura albiscapa,Grey Fantail,Native,2,2025-11-10
+Aves,Passeriformes,Colluricincla harmonica,Grey Shrike-thrush,Native,3,2025-12-23
+Aves,Anseriformes,Anas gracilis,Grey Teal,Native,1,2020-10-21
+Aves,Coraciiformes,Dacelo novaeguineae,Laughing Kookaburra,Native,5,2025-12-23
+Aves,Passeriformes,Meliphaga lewinii,Lewin's Honeyeater,Native,1,2014-03-11
+Aves,Passeriformes,Strepera graculina,Pied Currawong,Native,1,2014-03-11
+Aves,Strigiformes,Ninox strenua,Powerful Owl,Native,3,1992-04-12
+Aves,Passeriformes,Anthochaera carunculata,Red Wattlebird,Native,1,2025-11-10
+Aves,Passeriformes,Climacteris erythrops,Red-browed Treecreeper,Native,2,2025-12-23
+Aves,Passeriformes,Rhipidura rufifrons,Rufous Fantail,Native,1,2024-12-19
+Aves,Passeriformes,Pachycephala rufiventris,Rufous Whistler,Native,1,2025-11-10
+Aves,Coraciiformes,Todiramphus sanctus,Sacred Kingfisher,Native,1,2025-11-10
+Aves,Passeriformes,Ptilonorhynchus violaceus,Satin Bowerbird,Native,1,2025-12-14
+Aves,Passeriformes,Petroica boodang,Scarlet Robin,Native,1,2025-11-10
+Aves,Strigiformes,Tyto tenebricosa,Sooty Owl,Native,1,2008-02-19
+Aves,Strigiformes,Ninox novaeseelandiae,Southern Boobook,Native,8,2025-11-27
+Aves,Passeriformes,Pardalotus punctatus,Spotted Pardalote,Native,1,2025-11-10
+Aves,Passeriformes,Acanthiza lineata,Striated Thornbill,Native,3,2025-12-14
+Aves,Psittaciformes,Cacatua galerita,Sulphur-crested Cockatoo,Native,1,2014-03-11
+Aves,Passeriformes,Malurus cyaneus,Superb Fairy-wren,Native,2,2025-12-20
+Aves,Passeriformes,Menura novaehollandiae,Superb Lyrebird,Native,1,2024-12-19
+Aves,Passeriformes,Sericornis frontalis,White-browed Scrubwren,Native,3,2025-12-20
+Aves,Passeriformes,Nesoptilotis leucotis,White-eared Honeyeater,Native,3,2025-11-10
+Aves,Passeriformes,Cormobates leucophaea,White-throated Treecreeper,Native,2,2025-12-23
+Aves,Passeriformes,Caligavis chrysops,Yellow-faced Honeyeater,Native,1,2014-03-11
+Insecta,Lepidoptera,Vanessa kershawi,Australian Painted Lady,Native,1,2025-12-23
+Insecta,Lepidoptera,Scieropepla serina,Concealer Moth,Native,10,1970-01-19
+Insecta,Lepidoptera,Telocharacta hemicroca,Concealer Moth,Native,1,1969-11-19
+Insecta,Lepidoptera,Melitulias leucographa,Geometer Moth,Native,1,1969-11-19
+Insecta,Lepidoptera,Oreixenica orichora,Orichora Brown,Native,2,2025-12-23
+Insecta,Odonata,Eusynthemis guttata,Southern Tigertail,Native,2,2025-12-23
+Insecta,Odonata,Synthemis eustalacta,Swamp Tigertail,Native,1,2025-12-23
+Insecta,Lepidoptera,Pasma tasmanica,Tasmanica Skipper,Native,2,2025-12-16
+Insecta,Odonata,Hemicordulia tau,Tau Emerald,Native,2,2025-12-23
+Insecta,Lepidoptera,Euloxia meandraria,Two-lined Emerald,Native,1,2026-01-04
+Mammalia_Chiroptera,Chiroptera,Chalinolobus morio,Chocolate Wattled Bat,Native,1,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Scoteanax rueppellii,Greater Broad-nosed Bat,Native,1,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Vespadelus darlingtoni,Large Forest Bat,Native,1,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Nyctophilus geoffroyi,Lesser Long-eared Bat,Native,2,2008-02-13
+Mammalia_Chiroptera,Chiroptera,Vespadelus vulturnus,Little Forest Bat,Native,2,2008-02-13
+Mammalia_other,Diprotodontia,Vombatus ursinus,Bare-nosed Wombat,Native,485,2025-12-15
+Mammalia_other,Rodentia,Rattus fuscipes,Bush Rat,Native,3,2014-03-11
+Mammalia_other,Carnivora,Felis catus,Cat,Introduced,10,1994-08-30
+Mammalia_other,Diprotodontia,Trichosurus vulpecula,Common Brushtail Possum,Native,95,2025-12-01
+Mammalia_other,Diprotodontia,Pseudocheirus peregrinus,Common Ringtail Possum,Native,37,2025-12-01
+Mammalia_other,Diprotodontia,Macropus giganteus,Eastern Grey Kangaroo,Native,43,2008-02-13
+Mammalia_other,Artiodactyla,Bos taurus,European Cattle,Introduced,25,1994-09-05
+Mammalia_other,Carnivora,Vulpes vulpes,Fox,Introduced,11,2014-03-11
+Mammalia_other,Diprotodontia,Trichosurus cunninghami,Mountain Brushtail Possum,Native,7,2025-12-01
+Mammalia_other,Artiodactyla,Sus scrofa,Pig,Introduced,22,1994-09-05
+Mammalia_other,Lagomorpha,Oryctolagus cuniculus,Rabbit,Introduced,25,1994-09-05
+Mammalia_other,Diprotodontia,Notamacropus rufogriseus,Red-necked Wallaby,Native,10,2014-03-11
+Mammalia_other,Diprotodontia,Petauroides volans,Southern Greater Glider,Native,593,2026-01-08
+Mammalia_other,Diprotodontia,Petaurus breviceps,Sugar Glider,Native,3,1994-06-06
+Mammalia_other,Diprotodontia,Wallabia bicolor,Swamp Wallaby,Native,426,2017-07-09
+Mammalia_other,Diprotodontia,Petaurus australis,Yellow-bellied Glider,Native,9,2025-12-27
+Reptilia,Squamata,Tiliqua nigrolutea,Southern Blue-tongue,Native,1,2025-11-10

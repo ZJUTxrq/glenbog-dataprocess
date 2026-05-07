@@ -56,10 +56,15 @@ for sp, info in status_data.items():
     mask = df['scientificName_clean'] == sp
     df.loc[mask, 'aus_status'] = info['aus_status']
     df.loc[mask, 'nsw_status'] = info['nsw_status']
-#  Marked as sensitive (generalized GPS)
-#  If dataGeneralizations is not empty, it is assumed that generalized GPS exists.
+#  Marked as sensitive (generalised GPS)
+#  ALA/BioNet uses "alreadyGeneralised" when exact coordinates are withheld.
 
-if 'dataGeneralizations' in df.columns:
+if 'sensitive' in df.columns:
+    df['generalised_flag'] = (
+        df['sensitive'].fillna('').astype(str).str.strip().str.lower()
+        == 'alreadygeneralised'
+    )
+elif 'dataGeneralizations' in df.columns:
     df['generalised_flag'] = df['dataGeneralizations'].notna() & (
         df['dataGeneralizations'].astype(str).str.strip() != ''
     )

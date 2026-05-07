@@ -1,17 +1,17 @@
 order,class,total_species,total_observations,proportion,order_description
-Diprotodontia,Mammalia,10,1706,87.4,Southern Greater Glider
+Diprotodontia,Mammalia,10,1708,87.3,Southern Greater Glider
 Passeriformes,Aves,31,57,2.9,Flame Robin
 Artiodactyla,Mammalia,2,47,2.4,European Cattle
 Lepidoptera,Insecta,17,36,1.8,Concealer Moth
 Lagomorpha,Mammalia,1,25,1.3,Rabbit
 Carnivora,Mammalia,2,21,1.1,Fox
-Strigiformes,Aves,4,12,0.6,Southern Boobook
+Strigiformes,Aves,4,13,0.7,Southern Boobook
 Anura,Amphibia,4,8,0.4,Common Eastern Froglet
 Chiroptera,Mammalia,5,7,0.4,Lesser Long-eared Bat
 Psittaciformes,Aves,3,7,0.4,Crimson Rosella
+Apodiformes,Aves,1,6,0.3,Australian Owlet-nightjar
 Coraciiformes,Aves,2,6,0.3,Laughing Kookaburra
 Odonata,Insecta,3,5,0.3,Southern Tigertail
-Apodiformes,Aves,1,4,0.2,Australian Owlet-nightjar
 Rodentia,Mammalia,1,3,0.2,Bush Rat
 Cuculiformes,Aves,1,2,0.1,Fan-tailed Cuckoo
 Diptera,Insecta,1,2,0.1,Other Species
