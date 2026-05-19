@@ -1,0 +1,29 @@
+Bird Species ID,Common Name,Scientific Name,Order,Family,Primary Habitat,Primary Diet,ESI,Body Mass Avg (g),RLM
+2164,Marbled Frogmouth,Podargus ocellatus,Caprimulgiformes,Podargidae,Forest,Invertebrate,2.0,205.83,A
+6358,Beach Thick-knee,Esacus magnirostris,Charadriiformes,Burhinidae,Coastal,Invertebrate,2.0,1000.0,AIW
+6426,Sooty Oystercatcher,Haematopus fuliginosus,Charadriiformes,Haematopodidae,Coastal,Invertebrate,2.0,737.4,A
+6619,Pheasant-tailed Jacana,Hydrophasianus chirurgus,Charadriiformes,Jacanidae,Wetland,Invertebrate,2.0,175.75,I
+5553,Christmas Island Imperial-pigeon,Ducula whartoni,Columbiformes,Columbidae,Forest,Fruit,2.0,570.83,I
+5572,Zoe's Imperial-pigeon,Ducula zoeae,Columbiformes,Columbidae,Forest,Fruit,2.0,580.0,A
+5292,Black-banded Fruit-dove,Ptilinopus alligator,Columbiformes,Columbidae,Forest,Fruit,2.0,228.0,A
+10340,Little Paradise-kingfisher,Tanysiptera hydrocharis,Coraciiformes,Alcedinidae,Forest,Invertebrate,2.0,33.0,A
+19737,Slender-billed Thornbill,Acanthiza iredalei,Passeriformes,Acanthizidae,Shrub,Invertebrate,2.0,5.7,A
+19727,Mountain Thornbill,Acanthiza katherina,Passeriformes,Acanthizidae,Forest,Invertebrate,2.0,6.67,A
+19829,Lord Howe Gerygone,Gerygone insularis,Passeriformes,Acanthizidae,Forest,Invertebrate,2.0,,Z
+19759,Brown Gerygone,Gerygone mouki,Passeriformes,Acanthizidae,Forest,Invertebrate,2.0,6.05,A
+19807,Dusky Gerygone,Gerygone tenebrosa,Passeriformes,Acanthizidae,Coastal,Invertebrate,2.0,7.9,A
+19641,Atherton Scrubwren,Sericornis keri,Passeriformes,Acanthizidae,Forest,Invertebrate,2.0,11.38,A
+19650,Large-billed Scrubwren,Sericornis magnirostra,Passeriformes,Acanthizidae,Forest,Invertebrate,2.0,9.98,A
+18807,Purple-backed Fairywren,Malurus assimilis,Passeriformes,Maluridae,Shrub,Invertebrate,2.0,7.95,A
+18686,Albert's Lyrebird,Menura alberti,Passeriformes,Menuridae,Forest,Invertebrate,2.0,937.67,A
+22438,Pied Monarch,Arses kaupi,Passeriformes,Monarchidae,Forest,Invertebrate,2.0,13.13,A
+22389,Black-winged Monarch,Monarcha frater,Passeriformes,Monarchidae,Forest,Invertebrate,2.0,20.5,A
+22514,Restless Flycatcher,Myiagra inquieta,Passeriformes,Monarchidae,Woodland,Invertebrate,2.0,21.83,A
+31061,Dark-sided Flycatcher,Muscicapa sibirica,Passeriformes,Muscicapidae,Forest,Invertebrate,2.0,11.4,IP
+20951,Papuan Sittella,Daphoenositta papuensis,Passeriformes,Neosittidae,Forest,Invertebrate,2.0,14.0,A
+19863,Australian Logrunner,Orthonyx temminckii,Passeriformes,Orthonychidae,Forest,Invertebrate,2.0,59.25,A
+21236,White-breasted Whistler,Pachycephala lanioides,Passeriformes,Pachycephalidae,Coastal,Invertebrate,2.0,42.0,A
+19851,Hall's Babbler,Pomatostomus halli,Passeriformes,Pomatostomidae,Shrub,Invertebrate,2.0,39.5,A
+19952,Western Whipbird,Psophodes nigrogularis,Passeriformes,Psophodidae,Shrub,Invertebrate,2.0,44.7,A
+22046,Mangrove Fantail,Rhipidura phasiana,Passeriformes,Rhipiduridae,Coastal,Invertebrate,2.0,5.9,A
+7685,Abbott's Booby,Papasula abbotti,Pelecaniformes,Sulidae,Sea,Fish,2.0,1540.0,AI
